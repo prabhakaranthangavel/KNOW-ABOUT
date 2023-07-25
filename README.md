@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prabhakaranthangavel
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning MERN course
-- 📫 How to reach me karanprabha9600@gmail.com
+- 📫 How to reach me karangeetha9600@gmail.com
 
 <!---
 prabhakaranthangavel/prabhakaranthangavel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
